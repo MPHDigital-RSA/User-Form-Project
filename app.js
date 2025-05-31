@@ -86,7 +86,6 @@ function createUserUi(name, email, phone) {
         deleteUser(deleteBtn);
     })
 
-
     // append nameText, emailText, phoneText and the deleteBtn into user
     user.appendChild(nameText);
     user.appendChild(emailText);
